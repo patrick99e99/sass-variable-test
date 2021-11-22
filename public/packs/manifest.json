@@ -1,0 +1,60 @@
+{
+  "channels/consumer.js": "/packs/js/channels/consumer.js",
+  "channels/index.js": "/packs/js/channels/index.js",
+  "entrypoints": {
+    "channels/consumer": {
+      "assets": {
+        "js": [
+          "/packs/js/runtime.js",
+          "/packs/js/vendors-node_modules_rails_actioncable_app_assets_javascripts_action_cable_js.js",
+          "/packs/js/channels/consumer.js"
+        ]
+      }
+    },
+    "channels/index": {
+      "assets": {
+        "js": [
+          "/packs/js/runtime.js",
+          "/packs/js/channels/index.js"
+        ]
+      }
+    },
+    "packs/application": {
+      "assets": {
+        "js": [
+          "/packs/js/runtime.js",
+          "/packs/js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js",
+          "/packs/js/packs/application.js"
+        ]
+      }
+    },
+    "stylesheets/application": {
+      "assets": {
+        "js": [
+          "/packs/js/runtime.js",
+          "/packs/js/stylesheets/application.js"
+        ]
+      }
+    },
+    "stylesheets/base": {
+      "assets": {
+        "js": [
+          "/packs/js/runtime.js",
+          "/packs/js/stylesheets/base.js"
+        ]
+      }
+    }
+  },
+  "js/channels/consumer.js.map": "/packs/js/channels/consumer.js.map",
+  "js/channels/index.js.map": "/packs/js/channels/index.js.map",
+  "js/packs/application.js.map": "/packs/js/packs/application.js.map",
+  "js/runtime.js.map": "/packs/js/runtime.js.map",
+  "js/vendors-node_modules_rails_actioncable_app_assets_javascripts_action_cable_js.js": "/packs/js/vendors-node_modules_rails_actioncable_app_assets_javascripts_action_cable_js.js",
+  "js/vendors-node_modules_rails_actioncable_app_assets_javascripts_action_cable_js.js.map": "/packs/js/vendors-node_modules_rails_actioncable_app_assets_javascripts_action_cable_js.js.map",
+  "js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js": "/packs/js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js",
+  "js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js.map": "/packs/js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js.map",
+  "packs/application.js": "/packs/js/packs/application.js",
+  "runtime.js": "/packs/js/runtime.js",
+  "stylesheets/application.js": "/packs/js/stylesheets/application.js",
+  "stylesheets/base.js": "/packs/js/stylesheets/base.js"
+}
