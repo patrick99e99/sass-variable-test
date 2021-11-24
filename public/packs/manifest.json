@@ -1,18 +1,15 @@
 {
-  "application.js": "/packs/application-3067c8104104326a94d2.js",
+  "application.js": "/packs/js/application.js",
   "entrypoints": {
     "application": {
       "assets": {
         "js": [
-          "/packs/runtime-3067c8104104326a94d2.js",
-          "/packs/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-4dce4f-3067c8104104326a94d2.js",
-          "/packs/application-3067c8104104326a94d2.js"
+          "/packs/js/runtime.js",
+          "/packs/js/application.js"
         ]
       }
     }
   },
-  "runtime-3067c8104104326a94d2.js.map": "/packs/runtime-3067c8104104326a94d2.js.map",
-  "runtime.js": "/packs/runtime-3067c8104104326a94d2.js",
-  "vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-4dce4f-3067c8104104326a94d2.js": "/packs/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-4dce4f-3067c8104104326a94d2.js",
-  "vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-4dce4f-3067c8104104326a94d2.js.map": "/packs/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-4dce4f-3067c8104104326a94d2.js.map"
+  "js/runtime.js.map": "/packs/js/runtime.js.map",
+  "runtime.js": "/packs/js/runtime.js"
 }

@@ -6,10 +6,12 @@
     "@rails/activestorage": "^6.1.4-1",
     "@rails/ujs": "^6.1.4-1",
     "@rails/webpacker": "6.0.0-rc.5",
+    "mini-css-extract-plugin": "^2.4.5",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
   "devDependencies": {
+    "css-loader": "^6.5.1",
     "sass": "^1.43.4",
     "sass-loader": "^12.3.0",
     "style-loader": "^3.3.1",
